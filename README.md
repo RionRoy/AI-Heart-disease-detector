@@ -1,1 +1,1 @@
-# AI-Heart-disease-detector
+# AI-heart-disease-detector
