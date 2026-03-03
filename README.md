@@ -1,1 +1,0 @@
-# AI-heart-disease-detector
